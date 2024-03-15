@@ -1,0 +1,20 @@
+**** cbm basic v2 ****
+
+6655 bytes free
+
+ready.
+load"pi2",8
+
+searching for pi2
+loading
+ready.
+run:
+pi digits? 100
+0314159265358979323846
+2643383279502884197169
+3993751058209749445923
+0781640628620899862803
+4825342117067
+ 941.816667 seconds
+
+ready.
